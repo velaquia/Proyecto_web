@@ -10,7 +10,7 @@ El proyecto es una pagina web de fotografia, donde la primera seccion toma todo 
 - CSS
 - JAVASCRIPT
 
-  ## Link ##
+  ## Link :link: ##
   
 [Pagina proyecto web](https://velaquia.github.io/Proyecto_web/)
 
