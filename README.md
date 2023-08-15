@@ -8,7 +8,7 @@ El proyecto es una pagina web de fotografia, donde la primera seccion toma todo 
 
 - HTML
 - CSS
-- Javascript
+- JAVASCRIPT
 
   ## Link ##
   
